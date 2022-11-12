@@ -1,6 +1,7 @@
 # Terrafrom Docker Codes
 
 ## Terraform
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hashicorp.com%2Fblog%2Fproducts%2Fterraform&psig=AOvVaw0_wrk_BYfOSFkZ8uOJcdup&ust=1668351862098000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjLyJX1qPsCFQAAAAAdAAAAABAD" />
+HashiCorp Terraform provides infrastructure automation with workflows to build composition, collaboration, and reuse of infrastructure as code while providing standardization for security, compliance, and management. The extensibility allows for integration with workflows to drive innovation with self-service workflows.
 
 ## Docker
+Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications.
